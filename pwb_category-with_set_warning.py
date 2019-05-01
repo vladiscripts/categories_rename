@@ -1,7 +1,7 @@
 # from my import *
 # from pywikibot import category
 import os
-from vladi_commons.vladi_helpers import file_readlines_in_list_interlines
+from vladi_commons.file_helpers import file_readlines_in_list_interlines
 
 # summary = r"орфография категории [[ВП:ЗКБВ#Средние века|по запросу]]"
 summary = r"категория: [[ВП:Обсуждение категорий/Июль 2016#20 июля 2016]]"
